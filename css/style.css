@@ -9,9 +9,10 @@ body{
 }
 
 h1{
- margin-top: 5%;
+ margin-top: 50px;
  text-align: center;
  color: red;
+ margin-bottom: 50px;
 }
 section{
   position: relative;
@@ -46,4 +47,13 @@ img{
 }
 .center{
   background-color: red;
+}
+#riga2{
+  margin-top: 10px;
+}
+footer{
+  color: white;
+  position: absolute;
+  right: 0;
+  font-size: 20px;
 }
