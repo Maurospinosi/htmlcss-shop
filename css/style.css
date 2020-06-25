@@ -1,12 +1,15 @@
 *{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-image: url(img/sfondo.jpg);
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body{
+ background-image: url(../img/sfondo.jpg);
+ background-size: cover;
 }
 
 h1{
- margin-top: 50px;
+ margin-top: 5%;
  text-align: center;
  color: red;
 }
