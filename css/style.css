@@ -43,7 +43,7 @@ img{
   right: 0;
 }
 .box:hover #heart{
-  display: inline-block;
+  display: block;
 }
 .center{
   background-color: red;
