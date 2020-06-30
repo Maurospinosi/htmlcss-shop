@@ -35,6 +35,7 @@ img{
   font-size: 50px;
   margin-left: 170px;
   display: none;
+  position: absolute;
 }
 .text{
   background-color: green;
